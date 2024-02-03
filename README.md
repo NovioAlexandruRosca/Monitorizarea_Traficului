@@ -35,7 +35,7 @@ Here you can see a couple of screenshots of the app:
 - **Manual Speed Modification**: You are able to set a specific speed that will be computed by the server and will let you know if you are driving with a safe speed.
 ![Modificare_viteza_1](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/d8dcefdd-0c53-4aa7-91e7-11fda55d35d2)
 ![Modificare_viteza_2](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/f6a69347-19d0-4551-9fc7-881af57765d2)
-- **The Server**: Will give you important information about the time a request was received and the data that's sent back to the user
+- **The Server**: Will give you important information about the time a request was received and the data that has been sent back to the user
 ![Server](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/37cbd3ff-5c23-4583-a2bc-4a8dfaf4a826)
 - **The Client**:  Will send requests to the server periodically or on-action and will await a response without breaking the flow of the app
 ![Client](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/b5648c47-d15f-4990-9ba6-456a8d7118a7)
