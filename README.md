@@ -23,16 +23,13 @@ Introducing "Traffic Buddy," a project led by Rosca Alexandru-David crafted with
 And many more other features.
 
 ## How To Run
-- **For the server side**: 
-sudo apt-get update
-sudo apt-get install sqlite3 libsqlite3-dev
+- **For the server side**: Use the following commands
+- **Prerequisites**: sudo apt-get update | sudo apt-get install sqlite3 libsqlite3-dev
+- **Compile**: gcc server.c -o server -lsqlite3
 
-gcc server.c -o server -lsqlite3
-
-- **For the client side**: 
-sudo apt-get install libgtk-3-dev
-
-gcc client.c -o client pkg-config --cflags --libs gtk+-3.0
+- **For the client side**:  Use the following commands
+- **Prerequisites**: sudo apt-get install libgtk-3-dev
+- **Compile**: gcc client.c -o client pkg-config --cflags --libs gtk+-3.0
 
 ## Screenshots
 
