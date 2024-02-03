@@ -19,3 +19,30 @@ Introducing "Traffic Buddy," a project led by Rosca Alexandru-David crafted with
 - **Speed Monitoring**: Stay on track with our speed monitoring feature, ensuring you're driving safely within the limits.
 - **Accident Reporting**: Report incidents quickly and efficiently, alerting fellow users and emergency services for prompt assistance.
 - **Sleek GTK3 Interface**: Enjoy an intuitive and modern interface designed with GTK3, making navigation a breeze.
+
+And many more other features.
+
+## Screenshots
+
+Here you can see a couple of screenshots of the app:
+
+- **Main App**: The main interface of the application.
+![Exemplu_rulare](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/75561fbd-7e1c-45cc-8752-bf9af9a1f274)
+
+- **Concurrency Feature**:
+![Exemplu_rulare_concurent](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/7b43e7f6-8e00-411c-821b-8f74c331bc52)
+
+- **Manual Speed Modification**: You are able to set a specific speed that will be computed by the server and will let you know if you are driving with a safe speed.
+![Modificare_viteza_1](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/d8dcefdd-0c53-4aa7-91e7-11fda55d35d2)
+![Modificare_viteza_2](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/f6a69347-19d0-4551-9fc7-881af57765d2)
+- **The Server**:
+![Server](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/37cbd3ff-5c23-4583-a2bc-4a8dfaf4a826)
+- **Main Client**:
+![Client](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/b5648c47-d15f-4990-9ba6-456a8d7118a7)
+- **Example of the news feature**: You will get new news periodically if you select the option in the first place(works the same for the weather and price buttons)
+![Stire_sportiva](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/52a62c6b-6503-4f5b-98dc-4b0f76d5b6d0)
+- **Accident Button**: If you recall any accidents on the road that you are driving on let everybody know it
+![utilizare_accident](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/2fb03abc-b593-4bb9-8635-47a7d5a6ae5c)
+
+
+
