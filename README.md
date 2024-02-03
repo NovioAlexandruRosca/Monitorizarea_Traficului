@@ -39,7 +39,7 @@ Here you can see a couple of screenshots of the app:
 ![Server](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/37cbd3ff-5c23-4583-a2bc-4a8dfaf4a826)
 - **The Client**:  Will send requests to the server periodically or on-action and will await a response without breaking the flow of the app
 ![Client](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/b5648c47-d15f-4990-9ba6-456a8d7118a7)
-- **Example of the news feature**: You will get new news periodically if you select the option in the first place(works the same for the weather and price buttons)
+- **Example of the news feature**: You will get new news periodically if you select the option(same for weather and prices)
 ![Stire_sportiva](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/52a62c6b-6503-4f5b-98dc-4b0f76d5b6d0)
 - **Accident Button**: If you recall any accidents on the road that you are driving on let everybody know it
 ![utilizare_accident](https://github.com/AlexandruRoscaPOO/Monitorizarea_Traficului/assets/113398639/2fb03abc-b593-4bb9-8635-47a7d5a6ae5c)
